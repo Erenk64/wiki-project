@@ -1,3 +1,6 @@
 # Verhaal
-The Walking Dead volgt een groep overlevenden in een wereld vol zombies. Ze proberen te overleven en hun gemeenschap te beschermen. Nieuwe gevaren komen steeds dichterbij.
+
+The Walking Dead volgt een groep overlevenden in een wereld vol zombies. Ze proberen te overleven en hun gemeenschap te beschermen.
+
+De groep komt veel gevaren tegen, zoals zombies en andere overlevenden die hen bedreigen.
 
